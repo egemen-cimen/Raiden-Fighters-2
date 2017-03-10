@@ -1,1 +1,44 @@
+sprite of two bullet beams size by side
+bullet.png
+Width: 33 pixels
+Height: 53 pixels
 
+sprite of a fighter jet (enemy) that faces downward
+enemy.gif
+Width: 68 pixels
+Height: 92 pixels
+
+sprite of two bullet beams size by side (faces downward)
+enemyBullet.png
+Width: 33 pixels
+Height: 53 pixels
+
+sprite image of a heart
+life.jpg
+Width: 51 pixels
+Height: 51 pixels
+
+sprite of a long purple laser 
+longLazer.png
+Width: 32 pixels
+Height: 822 pixels
+
+green terrain picture (from a forest)
+map.png
+Width: 560 pixels
+Height: 7584 pixels
+
+sprite of your hero jet (faces upward)
+Raiden_MK-II.gif
+Width: 68 pixels
+Height: 92 pixels
+
+sprite of enemy tank
+tank.png
+Width: 68 pixels
+Height: 92 pixels
+
+welcome screen that says the title of the game
+welcome.png
+Width: 360 pixels
+Height: 480 pixels
